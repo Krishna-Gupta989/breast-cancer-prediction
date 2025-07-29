@@ -21,10 +21,12 @@ Dataset used: `sklearn.datasets.load_breast_cancer()`
 ```bash
 pip install -r requirements.txt
 jupyter notebook
-📌 Output
+
+## 📌 Output
 Accuracy score
 
 Confusion matrix
 
 Tumor classification prediction
+
 
